@@ -1,0 +1,17 @@
+En la carpeta llamada backend ejecutar:
+npm run dev   		/// Para ejecutar el servidor
+
+En la carpeta llamada frontend ejecutar:
+npm run start		///Para iniciar el cliente
+
+MongoDB debe estar ejecutandose como servicio
+
+
+Rutas del cliente en el navegador
+
+localhost:3000/userPanel1  		///Datos de usuario
+localhost:3000/userPanel2  		///Usuario agrega elemento a la base de datos
+localhost:3000/userPanel3  		///Usuario ve su biblioteca
+localhost:3000/Home	  		///Pagina principal
+localhost:3000/		  		///Pagina principal
+localhost:3000/user	  		///No concluido, para testear usuarios, por construir
